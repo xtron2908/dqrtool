@@ -1,0 +1,7 @@
+# requirements.txt for Domain Quality Rating Tool
+
+streamlit
+requests
+beautifulsoup4
+tldextract
+langdetect
